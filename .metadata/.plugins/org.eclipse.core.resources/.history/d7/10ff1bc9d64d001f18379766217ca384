@@ -1,0 +1,10 @@
+package pacote.daniel;
+
+public class PrimeiraClasse {
+
+	public static void main(String[] args) {
+		String valorDeEntrada = args[0]
+		System.out.print(valorDeEntrada);
+	}
+
+}

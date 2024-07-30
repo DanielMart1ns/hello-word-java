@@ -1,0 +1,12 @@
+package pacote.daniel;
+
+public class PrimeiraClasse {
+
+	public static void main(String[] args) {
+		String valorDeEntrada = args[0];
+		if(valorDeEntrada.equals("DEV")) {			
+			System.out.print("DEV");
+		}
+	}
+
+}
